@@ -1,0 +1,29 @@
+{
+	"indexes":
+		[
+			"IBM's 2020 Annual Report"
+		],
+	"collection_ids":
+		[
+			"c4d7e453-3dc8-7f8b-0000-018b3edb11ae"
+		],
+	"fields":
+		[
+			"title",
+			"text"
+		],
+	"max_per_document": 5,
+	"max_answers_per_passage": 1,
+	"return":
+		[
+			"document_id",
+			"extracted_metadata.filename"
+		],
+	"per_document": true,
+	"apikey": "hmH3R0mZLF1ZMGBkVvvSNQgboPVmeoo_apga5LbJ3bI5",
+	"endpoint": "https://api.us-south.discovery.watson.cloud.ibm.com/instances/95ac4ede-ec58-4d48-9d82-92e85e2fc444",
+	"project_id": "01c2a895-d67e-48a1-b074-60d44c2c8ac3",
+	"version": "2019-11-22"
+
+
+}
